@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCM.ImageUploader", "UCM.ImageUploader.csproj", "{5E34435B-46A8-48C8-AB48-A40BF7CC597E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageUploader", "ImageUploader.csproj", "{5E34435B-46A8-48C8-AB48-A40BF7CC597E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
